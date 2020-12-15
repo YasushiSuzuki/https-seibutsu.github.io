@@ -1,1 +1,1 @@
-# https-seibutsu.github.io
+# seibutsu.github.io
